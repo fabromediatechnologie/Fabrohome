@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fabrohome-ufit.vercel.app/sitemap.xml
